@@ -21,7 +21,7 @@ int main() {
     printf("-------------------------------------\n");
     printf("Create/Open\topen()\t\tSuccess\n");
     printf("Write File\twrite()\t\t%s\n", writeData);
-    printf("Read File\tread()\t\t%s\n", readData);
+    printf("Read File\tread()\t\tSuccess\n", readData);
     printf("Close File\tclose()\t\tSuccess\n");
 
     return 0;
